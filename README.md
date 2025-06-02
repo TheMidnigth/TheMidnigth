@@ -25,5 +25,5 @@
 
 <p align="center">
   <!-- Lenguajes más usados en porcentaje -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMidnigth&layout=donut-vertical&langs_count=6&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMidnigth&layout=donut-vertical&langs_count=6&theme=radical&hide_border=true&cache_seconds=1" />
 </p>
