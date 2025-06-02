@@ -20,10 +20,10 @@
 
 <p align="center">
   <!-- Gráfica de actividad de los últimos 30 días -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheMidnigth&theme=react-dark&hide_border=true&area=true&custom_title=Actividad%20en%20los%20últimos%2030%20días" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMidnigth&theme=react-dark&hide_border=true&area=true&custom_title=Actividad%20en%20los%20últimos%2030%20días" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
   <!-- Lenguajes más usados en porcentaje -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMidnigth&layout=donut-vertical&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMidnigth&layout=donut-vertical&langs_count=6&theme=radical&hide_border=true" />
 </p>
