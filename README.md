@@ -1,6 +1,28 @@
-<h1 align="center">¡Hola! Mi nombre es: Keyner Alfonso Reyes Tejedor (TheMidnigth) </h1>
+<h1 align="center">¡Hello! My name is: Keyner Alfonso Reyes Tejedor (TheMidnigth) </h1>
 
+## 👨‍💻 About Me
 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="120" alt="Programador"/>
+</p>
+
+Hola! 👋 Soy un desarrollador **Frontend** apasionado por construir experiencias web intuitivas, modernas y visualmente atractivas.  
+Me encanta **colaborar en equipo**, ayudar a otros, y proponer ideas creativas para resolver problemas.
+
+---
+
+🔹 Me destaco por ser **proactivo**, **comunicativo** y siempre con ganas de **aprender**.  
+🔹 Me gusta trabajar en equipo y **compartir conocimientos** con la comunidad.  
+🔹 Tengo experiencia creando interfaces **responsivas**, **dinámicas** y centradas en el usuario.  
+🔹 Disfruto manteniéndome actualizado con las últimas **tecnologías web**.
+
+---
+
+🎯 **Objetivo**: seguir creciendo como desarrollador, aportar valor a proyectos significativos y aprender constantemente.
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" width="100" alt="Computadora" />
+</p>
 
 # 🚀 👨‍💻 Applications 👨‍💻 🚀
 
