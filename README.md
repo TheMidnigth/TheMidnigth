@@ -1,11 +1,10 @@
-<h1 align="center">¡Hello! My name is: Keyner Alfonso Reyes Tejedor (TheMidnigth) </h1>
-
-## 👨‍💻 About Me
-
 <p align="center">
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
 </p>
 
+<h1 align="center">¡Hello! My name is: Keyner Alfonso Reyes Tejedor (TheMidnigth) </h1>
+
+## 👨‍💻 About Me
 Hola! 👋 Soy un desarrollador **Frontend** apasionado por construir experiencias web intuitivas, modernas y visualmente atractivas.  
 Me encanta **colaborar en equipo**, ayudar a otros, y proponer ideas creativas para resolver problemas.
 
