@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
 </p>
 
 Hola! 👋 Soy un desarrollador **Frontend** apasionado por construir experiencias web intuitivas, modernas y visualmente atractivas.  
