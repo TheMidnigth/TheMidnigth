@@ -50,12 +50,12 @@ Me encanta **colaborar en equipo**, ayudar a otros, y proponer ideas creativas p
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>📌 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/TheMidnigth/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMidnigth&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
+   <h3 align="center"><strong>📌 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+<p align="center">
+  <a href="https://github.com/TheMidnigth/cryptos">
+    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMidnigth&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+  </a>
+</p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>🏆 Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
