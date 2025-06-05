@@ -12,6 +12,8 @@ Además de mi enfoque en el frontend, también tengo experiencia en el desarroll
 
 💡 Me encanta trabajar en equipo, aportar ideas creativas y encontrar soluciones prácticas a los desafíos del desarrollo. Disfruto mucho colaborar con otras personas, ya sea en proyectos o compartiendo conocimientos, porque creo que el aprendizaje mutuo fortalece tanto a los equipos como a los individuos.
 
+---
+
 🔹 Me destaco por ser una persona proactiva, organizada y con una mentalidad de crecimiento constante.
 🔹 Tengo experiencia creando interfaces dinámicas, responsivas y centradas en la experiencia del usuario.
 🔹 Me mantengo en constante actualización sobre buenas prácticas de desarrollo y nuevas herramientas que mejoren la eficiencia y calidad del código.
@@ -19,6 +21,7 @@ Además de mi enfoque en el frontend, también tengo experiencia en el desarroll
 🔹 Disfruto ayudar a otros, aprender en comunidad y mantener una actitud abierta ante los cambios tecnológicos.
 
 Estoy convencido de que el desarrollo web es una mezcla perfecta entre creatividad y lógica, y es justamente eso lo que me impulsa cada día a seguir aprendiendo y mejorando como profesional.
+
 ---
 
 # 🚀 👨‍💻 Applications 👨‍💻 🚀
