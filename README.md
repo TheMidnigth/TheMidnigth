@@ -5,16 +5,20 @@
 <h1 align="center">¡Hello! My name is: Keyner Alfonso Reyes Tejedor (TheMidnigth) </h1>
 
 ## 👨‍💻 About Me
-Hola! 👋 Soy un desarrollador **Frontend** apasionado por construir experiencias web intuitivas, modernas y visualmente atractivas.  
-Me encanta **colaborar en equipo**, ayudar a otros, y proponer ideas creativas para resolver problemas.
+¡Hola! 👋
+Soy un desarrollador Frontend con una gran pasión por construir experiencias web modernas, funcionales y visualmente atractivas. Me especializo en el desarrollo de interfaces utilizando HTML, CSS y JavaScript, buscando siempre que los sitios que creo sean intuitivos, accesibles y adaptables a cualquier dispositivo.
 
----
+Además de mi enfoque en el frontend, también tengo experiencia en el desarrollo backend utilizando Java y Python, lo que me permite comprender mejor el ciclo completo de una aplicación web y colaborar eficazmente con otros perfiles técnicos.
 
-🔹 Me destaco por ser **proactivo**, **comunicativo** y siempre con ganas de **aprender**.  
-🔹 Me gusta trabajar en equipo y **compartir conocimientos** con la comunidad.  
-🔹 Tengo experiencia creando interfaces **responsivas**, **dinámicas** y centradas en el usuario.  
-🔹 Disfruto manteniéndome actualizado con las últimas **tecnologías web**.
+💡 Me encanta trabajar en equipo, aportar ideas creativas y encontrar soluciones prácticas a los desafíos del desarrollo. Disfruto mucho colaborar con otras personas, ya sea en proyectos o compartiendo conocimientos, porque creo que el aprendizaje mutuo fortalece tanto a los equipos como a los individuos.
 
+🔹 Me destaco por ser una persona proactiva, organizada y con una mentalidad de crecimiento constante.
+🔹 Tengo experiencia creando interfaces dinámicas, responsivas y centradas en la experiencia del usuario.
+🔹 Me mantengo en constante actualización sobre buenas prácticas de desarrollo y nuevas herramientas que mejoren la eficiencia y calidad del código.
+🔹 Me motiva la idea de construir software que no solo funcione, sino que también genere un impacto positivo en quienes lo usan.
+🔹 Disfruto ayudar a otros, aprender en comunidad y mantener una actitud abierta ante los cambios tecnológicos.
+
+Estoy convencido de que el desarrollo web es una mezcla perfecta entre creatividad y lógica, y es justamente eso lo que me impulsa cada día a seguir aprendiendo y mejorando como profesional.
 ---
 
 # 🚀 👨‍💻 Applications 👨‍💻 🚀
