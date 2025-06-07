@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Profile LinkedIn Banner.png" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
+   [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 </p>
 
 <h1 align="center">¡Hello! My name is: Keyner Alfonso Reyes Tejedor (TheMidnigth) </h1>
