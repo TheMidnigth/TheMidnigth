@@ -14,13 +14,13 @@ Además de mi enfoque en el frontend, también tengo experiencia en el desarroll
 
 ---
 
-🔹 Me destaco por ser una persona proactiva, organizada y con una mentalidad de crecimiento constante.
-🔹 Tengo experiencia creando interfaces dinámicas, responsivas y centradas en la experiencia del usuario.
-🔹 Me mantengo en constante actualización sobre buenas prácticas de desarrollo y nuevas herramientas que mejoren la eficiencia y calidad del código.
-🔹 Me motiva la idea de construir software que no solo funcione, sino que también genere un impacto positivo en quienes lo usan.
+
+🔹 Me destaco por ser una persona proactiva, organizada y con una mentalidad de crecimiento constante.  
+🔹 Tengo experiencia creando interfaces dinámicas, responsivas y centradas en la experiencia del usuario.  
+🔹 Me mantengo en constante actualización sobre buenas prácticas de desarrollo y nuevas herramientas que mejoren la eficiencia y calidad del código.  
+🔹 Me motiva la idea de construir software que no solo funcione, sino que también genere un impacto positivo en quienes lo usan.  
 🔹 Disfruto ayudar a otros, aprender en comunidad y mantener una actitud abierta ante los cambios tecnológicos.
 
-Estoy convencido de que el desarrollo web es una mezcla perfecta entre creatividad y lógica, y es justamente eso lo que me impulsa cada día a seguir aprendiendo y mejorando como profesional.
 
 ---
 
