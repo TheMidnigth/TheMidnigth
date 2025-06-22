@@ -83,3 +83,13 @@ Además de mi enfoque en el frontend, también tengo experiencia en el desarroll
   <!-- Lenguajes más usados en porcentaje -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMidnigth&layout=donut-vertical&langs_count=10&theme=radical&hide_border=true&cache_seconds=1" />
 </p>
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=12960671&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=12960671&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @634750802" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=12960671&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
