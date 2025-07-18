@@ -58,7 +58,7 @@ Además de mi enfoque en el frontend, también tengo experiencia en el desarroll
     <td width="50%">
 <h3 align="center"><strong>📌 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
 <p align="center">
-  <a href="https://github.com/TheMidnigth/Portafolio">
+  <a href="https://github.com/TheMidnigth/Convertidor-De-Formato-De-Imagenes-a-otro-formato">
     <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMidnigth&repo=Convertidor-De-Formato-De-Imagenes-a-otro-formato
 &theme=nightowl&show_owner=true" alt="Convertidor-De-Formato-De-Imagenes-a-otro-formato
 " />
